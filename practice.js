@@ -52,7 +52,7 @@ first(names, function(firstName){
 
 //Code Here
 let last = function(names, lastName){
-  lastName(names[6])
+  lastName(names[names.length -1])
 }
 
 // Do not edit the code below.
