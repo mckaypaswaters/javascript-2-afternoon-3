@@ -28,6 +28,9 @@
 */
 
 // Code Here 
+let first = function(names, firstName){
+  firstName(names[0])
+  }
 
 // Do not edit the code below.
 var names = ['Tyler', 'Cahlan', 'Ryan', 'Colt', 'Tyler', 'Blaine', 'Cahlan'];
@@ -48,6 +51,9 @@ first(names, function(firstName){
 */
 
 //Code Here
+let last = function(names, lastName){
+  lastName(names[6])
+}
 
 // Do not edit the code below.
 last(names, function(lastName){
