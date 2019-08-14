@@ -72,6 +72,9 @@ last(names, function(lastName){
 */
 
 //Code Here
+let multiply = function(num1, num2, cb) {
+  cb(num1 * num2)
+}
 
 // Do not edit the code below.
 multiply(4, 3, function(answer){
