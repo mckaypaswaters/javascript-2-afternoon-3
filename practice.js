@@ -94,6 +94,10 @@ multiply(4, 3, function(answer){
 */
 
 //Code Here 
+let contains = function(arr, name, cb){
+
+}
+
 
 // Do not edit the code below.
 contains(names, 'Colt', function(result){
